@@ -4,7 +4,7 @@
 ᯂᯮᯀᯉ᯲ ᯖᯔ᯲ᯇᯮᯅᯬᯞᯬᯉ᯲ ᯎᯬᯀᯒ᯲ᯂᯮ <br>
 */ˈxwan tappubolon goarhu/*
 
-Currently, I'm studying computational linguistics at the University of British Columbia, Vancouver, Canada. Originally from Jakarta, Indonesia. <br>
+> Currently, I'm studying computational linguistics at the University of British Columbia, Vancouver, Canada. Originally from Jakarta, Indonesia. <br>
 
 🏫 B.Sc. Honor's Linguistics at University of Michigan, 2022 (Go Blue!) <br>
 👯 I'm looking to collaborate on creating quality digital resources for learning Indonesian, and opportunities in labs for language revitalizaton efforts <br>
