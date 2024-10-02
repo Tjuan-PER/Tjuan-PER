@@ -4,6 +4,7 @@
 */ˈxwan tappubolon goarhu/*
 
 Hey there, <br>
+
 My name's Juan Tampubolon. Currently, I'm studying computational linguistics at the University of British Columbia, Vancouver, Canada. Originally from Jakarta, Indonesia. <br><br>
 🏫 B.Sc. Honor's Linguistics at University of Michigan, 2022 (Go Blue!) <br>
 👯 I'm looking to collaborate on creating quality digital resources for learning Indonesian, and opportunities in labs for language revitalizaton efforts <br>
@@ -13,16 +14,16 @@ More about me
 ---
 📫 How to reach me: https://www.linkedin.com/in/juantampubolon/
 
-🖥️ Programming Languages:
+🖥️ Programming Languages<br>
 Python, R, Javascript, C++
 
-🗣️ Natural Languages
+🗣️ Languages<br>
 English (native), Indonesian (native), Spanish (intermediate), French (intermediate)
 
-💻 IDEs/Editors
+💻 IDEs/Editors<br>
 Jupyter, Rstudio, VisualStudioCode
 
-🕓 Version Control:
+🕓 Version Control<br>
 Git, Github
 <!--
 **Tjuan-PER/Tjuan-PER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
