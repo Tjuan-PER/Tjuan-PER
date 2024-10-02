@@ -1,11 +1,11 @@
-## ᯂᯬᯒᯘ᯲ 👋
+## Hey there, I'm Juan Tampubolon 👋
+ᯂᯬᯒᯘ᯲ <br>
 */horas/*<br>
 ᯂᯮᯀᯉ᯲ ᯖᯔ᯲ᯇᯮᯅᯬᯞᯬᯉ᯲ ᯎᯬᯀᯒ᯲ᯂᯮ <br>
 */ˈxwan tappubolon goarhu/*
 
-Hey there, <br>
+Currently, I'm studying computational linguistics at the University of British Columbia, Vancouver, Canada. Originally from Jakarta, Indonesia. <br><br>
 
-My name's Juan Tampubolon. Currently, I'm studying computational linguistics at the University of British Columbia, Vancouver, Canada. Originally from Jakarta, Indonesia. <br><br>
 🏫 B.Sc. Honor's Linguistics at University of Michigan, 2022 (Go Blue!) <br>
 👯 I'm looking to collaborate on creating quality digital resources for learning Indonesian, and opportunities in labs for language revitalizaton efforts <br>
 🔭 My research interests are, but not limited to, Natural Language Processing, Educational Technology, Language Acquisition and Pedagogy, Language Digitization, Language Revitalization<br>
