@@ -1,7 +1,7 @@
 ## ᯂᯬᯒᯘ᯲ 👋
-/horas/<br>
+*/horas/*<br>
 ᯂᯮᯀᯉ᯲ ᯖᯔ᯲ᯇᯮᯅᯬᯞᯬᯉ᯲ ᯎᯬᯀᯒ᯲ᯂᯮ <br>
-/ˈxwan tappubolon goarhu/
+*/ˈxwan tappubolon goarhu/*
 
 Hi, 
 My name's Juan Tampubolon. Currently, I'm studying computational linguistics at the University of British Columbia, Vancouver, Canada. Originally from Jakarta, Indonesia.
