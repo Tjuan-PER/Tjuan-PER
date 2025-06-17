@@ -8,7 +8,7 @@
 
 🏫 B.Sc. Honor's Linguistics at University of Michigan, 2022 (Go Blue!) <br>
 👯 I'm looking to collaborate on creating quality digital resources for learning Indonesian, and opportunities in labs for language revitalizaton efforts <br>
-🔭 My research interests are, but not limited to, Natural Language Processing, Educational Technology, Language Acquisition and Pedagogy, Language Digitization, Language Revitalization<br>
+🔭 My interests are in, but not limited to, Natural Language Processing, Educational Technology, Language Acquisition and Pedagogy, Language Digitization, Language Revitalization<br>
 
 More about me
 ---
