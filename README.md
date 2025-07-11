@@ -4,11 +4,12 @@
 ᯂᯮᯀᯉ᯲ ᯖᯔ᯲ᯇᯮᯅᯬᯞᯬᯉ᯲ ᯎᯬᯀᯒ᯲ᯂᯮ <br>
 */ˈxwan tappubolon goarhu/*
 
-> Currently, I'm studying computational linguistics at the University of British Columbia, Vancouver, Canada. Originally from Jakarta, Indonesia. <br>
+> I'm a recent graduate of the Masters in Data Science in Computational Linguistics at the University of British Columbia, Vancouver, Canada. Originally from Jakarta, Indonesia. Actively seeking for opportunities in Canada<br>
 
-🏫 B.Sc. Honor's Linguistics at University of Michigan, 2022 (Go Blue!) <br>
-👯 I'm looking to collaborate on creating quality digital resources for learning Indonesian, and opportunities in labs for language revitalizaton efforts <br>
-🔭 My interests are in, but not limited to, Natural Language Processing, Educational Technology, Language Acquisition and Pedagogy, Language Digitization, Language Revitalization<br>
+🏫 MDS Computational Linguistics at University of British Columbia, 2025<br>
+🏫 B.Sc. Honor's Linguistics at University of Michigan, 2022 (Go Blue!)<br>
+👯 I'm looking to collaborate on creating quality digital resources for learning Indonesian, and opportunities in labs for language revitalizaton efforts<br>
+🔭 My interests are in, but not limited to, Natural Language Processing, Natural Language Understanding, Educational Technology, Language Acquisition and Pedagogy, Language Digitization, Language Revitalization<br>
 
 More about me
 ---
